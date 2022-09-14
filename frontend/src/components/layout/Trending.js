@@ -88,7 +88,7 @@ const Trending = () => {
           ))}
           {/* End of Image List */}
 
-          <Stack sx={{ width: "100%", height: "200px" }}></Stack>
+          <Stack sx={{ width: "100%", height: "100px" }}></Stack>
         </StackImages>
       </StyledBox>
     </>

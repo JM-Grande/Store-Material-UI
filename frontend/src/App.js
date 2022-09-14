@@ -8,6 +8,7 @@ import Landing from "./components/pages/Landing";
 import Login from "./components/pages/Login";
 import Registration from "./components/pages/Registration";
 import Item from "./components/pages/Item";
+import Footer from "./components/pages/Footer";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
           <Route path="/Item/:id" element={<Item />} />
         </Routes>
       </Box>
+      <Footer />
     </BrowserRouter>
   );
 };

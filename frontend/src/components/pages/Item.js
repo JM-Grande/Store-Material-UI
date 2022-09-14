@@ -208,6 +208,8 @@ const Item = () => {
           </Stack>
         </ItemStack>
         {/*End of Display Item */}
+
+        <Stack sx={{ width: "100%", height: "100px" }}></Stack>
       </Box>
     </>
   );

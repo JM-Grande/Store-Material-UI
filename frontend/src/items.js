@@ -83,6 +83,62 @@ const items = [
     rating: 3,
     numReviews: 189,
   },
+  {
+    _id: "7",
+    name: "Android",
+    image:
+      "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFuZHJvaWR8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    description: "Gaming Phone",
+    brand: "Samsung",
+    category: "Android",
+    price: 7000,
+    preSalePrice: 6900,
+    countInStock: 3,
+    rating: 3,
+    numReviews: 189,
+  },
+  {
+    _id: "8",
+    name: "Android",
+    image:
+      "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFuZHJvaWR8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    description: "Gaming Phone",
+    brand: "Samsung",
+    category: "Android",
+    price: 7000,
+    preSalePrice: 6900,
+    countInStock: 3,
+    rating: 3,
+    numReviews: 189,
+  },
+  {
+    _id: "9",
+    name: "Android",
+    image:
+      "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFuZHJvaWR8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    description: "Gaming Phone",
+    brand: "Samsung",
+    category: "Android",
+    price: 7000,
+    preSalePrice: 6900,
+    countInStock: 3,
+    rating: 3,
+    numReviews: 189,
+  },
+  {
+    _id: "10",
+    name: "Android",
+    image:
+      "https://images.unsplash.com/photo-1618478594486-c65b899c4936?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFuZHJvaWR8ZW58MHwxfDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    description: "Gaming Phone",
+    brand: "Samsung",
+    category: "Android",
+    price: 7000,
+    preSalePrice: 6900,
+    countInStock: 3,
+    rating: 3,
+    numReviews: 189,
+  },
 ];
 
 export default items;
